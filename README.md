@@ -89,4 +89,4 @@ app.exec_()
 
 ![image](https://github.com/hsy0511/PyQt5-first/assets/104752580/d0e55d43-d7f3-4161-8f93-22714effeec2)
 
-
+이렇게 pyqt5 사용법을 알아보았다.
